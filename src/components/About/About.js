@@ -21,11 +21,12 @@ function About() {
             }}
           >
             <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
-             TBD
+             as said earlier, this is still a work in progress
+             try clicking on the screen and making constellations
             </h1>
             <Aboutcard />
           </Col>
-       
+         
         </Row>
         <h1 className="project-heading">
           
