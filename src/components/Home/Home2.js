@@ -31,7 +31,7 @@ function Home2() {
               <br />
               -my writings <a href="https://substack.com/profile/78933586-nishant?utm_source=user-menu" target="_blank">substack</a>
               <br />
-            
+              -my CV  <a href="https://drive.google.com/file/d/1v_hYydjb7RloKkgqS4p2KiKl3iYG4B9p/view?usp=sharing" target="_blank">CV</a>
             </p>
           </Col>
           

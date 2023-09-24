@@ -20,12 +20,12 @@ function About() {
             }}
           >
             <h1 style={{ fontSize: "1.2em", paddingBottom: "20px", textAlign:"left"}}>
-              i'm a 22 year old based out of bangalore,playing around with code and figma (this is designed on figma, built in react)
+              i'm a 22 year old based out of bangalore,playing around with code and design (this is designed on figma, built in react)
                
               <br />
-             you can check my projects from the github link in the footer, and download my cv from here - <a href="https://drive.google.com/file/d/1v_hYydjb7RloKkgqS4p2KiKl3iYG4B9p/view?usp=sharing" target="_blank">cv</a>
+             
              <br />
-             this website is a work in progress, watch this space for more :D
+             this website is a work in progress, this is my space on the internet and would be filled eventually :D
             </h1>
             
           </Col>
